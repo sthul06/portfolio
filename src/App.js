@@ -32,6 +32,9 @@ function App() {
           <li><a href="#projects">Projects</a></li>
         </ul>
       </nav>
+      <h1 className="text-6xl font-bold mb-4">
+  Samyak Sthul
+</h1>
 <img
   src="/profile.jpg"
   alt="Samyak"
